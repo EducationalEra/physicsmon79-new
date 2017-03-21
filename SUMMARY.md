@@ -4,12 +4,14 @@
 * [Правила внесення пропозицій та алгоритм обговорення](pravyla.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
-   * [Системотворчі елементи шкільного курсу фізики](systemotvorchi_elementy_shkilnogo_kursu_phyzyki.md)
-   * [Основа навчально-пізнавальної діяльності учнів](osnova_navchalno_piznavalnoyi_diyalnosty_uchniv.md)
+   * [Ключові компетентності](kluchovi_kompetentnosti.md)
+   * [Наскрізні змістові лінії](naskrizni_linii.md)
+   * [Структура курсу](struktura.md)
    * [Навчальний фізичний експеримент](navchalniy_fizichniy_eksperyment.md)
-   * [Навчальні проекти](navchalni_proekty.md)
-   * [Навчальні екскурсії](navchalni_ekskursiyi.md)
+   * [Навчальні проекти](navchalni_proekty.md)    
+   * [Навчальні екскурсії](navchalni_ekskursiyi.md)   
    * [Фізичні задачі](fizichniy_zadachi.md)
+   * [Основа навчально-пізнавальної діяльності учнів](osnova_navchalno_piznavalnoyi_diyalnosty_uchniv.md)
    * [Розкриття здобутків вітчизняної фізичної науки](zdobutky_vitchiznyanoyi_fizichnoyi_nauky.md)
 
 ### 7 Клас
