@@ -7,11 +7,13 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://spanishmondeep.ed-era.com/1/vstup.html">Вступ</a></li>
-<li><a href="https://spanishmondeep.ed-era.com/1/fizika_pryrodnycha_nauka.html">Фізика як природнича наука. Пізнання природи</a></li>
-<li><a href="https://spanishmondeep.ed-era.com/1/mekhanichniy_rukh.html">Механічний рух</a></li>
-<li><a href="https://spanishmondeep.ed-era.com/1/vzaemodiya_til_syla.html">Взаємодія тіл. Сила</a></li>
-<li><a href="https://spanishmondeep.ed-era.com/1/mekhanichna_robota_ta_energiya.html">Механічна робота та енергія</a></li>
+    <li><a href="./vstup.md">Вступ</a></li>
+    <li><a href="./fizika_pryrodnycha_nauka.md">Фізика як природнича наука. Пізнання природи</a></li>
+    <li><a href="./mekhanichniy_rukh.md">Механічний рух</a>
+    </li>
+    <li><a href="./vzaemodiya_til_syla.md">Взаємодія тіл. Сила</a>
+    </li>
+    <li><a href="./mekhanichna_robota_ta_energiya.md">Механічна робота та енергія</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

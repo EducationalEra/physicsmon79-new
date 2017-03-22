@@ -7,8 +7,8 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://spanishmondeep.ed-era.com/2/teplovi_yavischa.html">Теплові явища</a></li>
-<li><a href="https://spanishmondeep.ed-era.com/2/elektrychni_yavischa.html">Електричні явища. Електричний струм</a></li>
+    <li><a href="./teplovi_yavischa.md">Теплові явища</a></li>
+    <li><a href="./elektrychni_yavischa.md">Електричні явища. Електричний струм</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
